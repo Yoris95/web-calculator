@@ -3,6 +3,7 @@ The Web Calculator is a web application written in HTML, CSS, and Javascript. Th
 
 ![calculator](https://user-images.githubusercontent.com/98592375/161042572-7a788233-392f-4718-a751-a455aab40f24.png)
 
+#### This web page is hosted here: https://yoris95.github.io/web-calculator/
 
 ## *Features to be added*:
 * User-friendly
